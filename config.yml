@@ -1,0 +1,5 @@
+ db:
+    host: 'myhostaddress.amazonaws.com'
+    user: 'user'
+    password: 'password'
+    database: 'yourdb'
